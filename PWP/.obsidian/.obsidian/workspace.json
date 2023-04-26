@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ba81c2962378497c",
+    "id": "23ebc24487bc5cdb",
     "type": "split",
     "children": [
       {
-        "id": "b9e85bd77c681f60",
+        "id": "f851a20bae65c062",
         "type": "tabs",
         "children": [
           {
-            "id": "f734d9027f32ce44",
+            "id": "07df0524f7bca341",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10d5d72af57f49cc",
+    "id": "843fdd3ac9b3baa4",
     "type": "split",
     "children": [
       {
-        "id": "ee0592a0650b873f",
+        "id": "68a42cb2c7bfe9c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e8be2561a5cf51ba",
+            "id": "c1630adb73e263ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "e9fb594399b488cf",
+            "id": "b59d83cdea73ef4f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "61fcab26756f95f7",
+            "id": "a41676e51b109243",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "bc8a42746853fef0",
+    "id": "f0032d4c0cbeaed1",
     "type": "split",
     "children": [
       {
-        "id": "7300d75fa77f6f15",
+        "id": "c21fc3643e71f191",
         "type": "tabs",
         "children": [
           {
-            "id": "5efff888876b5810",
+            "id": "22fe4d3d27062cb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "670e5aa1f14a7765",
+            "id": "a4c65bfbe3e9cbf0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c397d9e945535dd0",
+            "id": "553a9646f65210d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "9bf11569a268997a",
+            "id": "c70971be68aa9c99",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f734d9027f32ce44",
-  "lastOpenFiles": [
-    "img/Your First Project.pdf",
-    "img",
-    "Milestone 2/PWP canvas.canvas",
-    "Milestone 2/Milestone 2 Concept.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled.md",
-    "Milestone 2"
-  ]
+  "active": "c1630adb73e263ea",
+  "lastOpenFiles": []
 }

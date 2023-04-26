@@ -11,7 +11,6 @@
 
 **NEXT STEPS**
 
-
 **Define my concept**
 My concept is to appeal to people who have minor knowledge of cannabis and use it for medicinal benefits. I want them to consider growing it themselves in order to maintain their best interest in THC/CBD cannabis as medicine and have fun doing it! Sharing this knowledge is fun and interesting to me.
 
@@ -48,7 +47,6 @@ Basic Cannabis concepts
 Cannabis has 2 main types in circulation growing around the world. These types are "Sativa" and "Indica". How the different phenotypes affect the final product. A shortened explanation of where the different pheotypes first developed. The hybridization of modern cannabis. The growth cycle
 **features**
 - interactive images of and ideal "Indica" and ideal "Sativa"- with some of the information from above included in text fields associated with them.
-
 
 **Section 6**
 Tips and tricks to get started !
