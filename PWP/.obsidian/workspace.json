@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ba81c2962378497c",
+    "type": "split",
+    "children": [
+      {
+        "id": "177ba5e13272d645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fabb4ae2a251e115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milestone 2/Milestone 2 Concept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10d5d72af57f49cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee0592a0650b873f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8be2561a5cf51ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9fb594399b488cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61fcab26756f95f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc8a42746853fef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7300d75fa77f6f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5efff888876b5810",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Milestone 2/Milestone 2 Concept.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "670e5aa1f14a7765",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Milestone 2/Milestone 2 Concept.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c397d9e945535dd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bf11569a268997a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Milestone 2/Milestone 2 Concept.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fabb4ae2a251e115",
+  "lastOpenFiles": [
+    "Milestone 2/PWP canvas.canvas",
+    "Milestone 2/Milestone 2 Concept.md",
+    "Untitled.md",
+    "Milestone 2"
+  ]
+}
