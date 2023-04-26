@@ -1,2 +1,2 @@
-# milestone-1
-My persona, purpose, audience, and goal
+# PWP
+My Personal Website Project
