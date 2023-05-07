@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "Milestone 2/Milestone 2 Concept.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "48c7519b22d6748c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Milestone 2/Mobile & Desktop.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +75,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "95238df600ab5ba9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md",
+                "file": "Milestone 2/Mobile & Desktop.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md",
+                "file": "Milestone 2/Mobile & Desktop.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md"
+                "file": "Milestone 2/Mobile & Desktop.png"
               }
             }
           }
@@ -146,17 +165,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f734d9027f32ce44",
+  "active": "48c7519b22d6748c",
   "lastOpenFiles": [
+    "Milestone 3/Section Fill.md",
+    "Milestone 2/Milestone 2 Concept.md",
+    "Milestone 3",
+    "Milestone 2/Mobile & Desktop.png",
+    "Milestone 2/Images for Website background/morocco plantation.jpg",
+    "Milestone 2/Images for Website background/Inddor flower.jpg",
+    "Milestone 2/Images for Website background/Flower.jpg",
+    "Milestone 2/Images for Website background/canabis-from-top-view-glasshouse-planting-making-medicine-from-marijuana-health-care_7180-3403.jpg",
+    "Milestone 2/Untitled.md",
+    "Milestone 2/space-astronaut-with-cannabis-leaf-illustration_627786-137.avif",
+    "Milestone 2/Images for Website background",
+    "Milestone 2/PWP canvas.canvas",
     "img/Mobile & Desktop.png",
     "img/Mobile & Desktop(1).png",
     "img/Your First Project.pdf",
     "img",
-    "Milestone 2/PWP canvas.canvas",
-    "Milestone 2/Milestone 2 Concept.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled.md",
     "Milestone 2"
   ]
 }
