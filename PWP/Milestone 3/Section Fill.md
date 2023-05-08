@@ -13,7 +13,8 @@ The cost of cannabis It can vary wildly and is on average between 6-15$ a gram. 
 -If possible Id like to code a calculator that takes user input and determines the estimated cost of their grow vs months of cannabis purchases- 
 
 **Section 3**
-Health benefits of gardening -  When you grow your own garden you are in complete control of your fertilizer and pesticide usage. I will outline the health benefits in this section.
+-Health benefits of gardening - When you grow your own garden you are in complete control of your fertilizer and pesticide usage.
+-Why is this important: often what makes cannabis less safe to use would be the pesticide usage. pesticeides
 **features**
 -perhaps an image that changes from sapling up to fully bloomed cannabis plants- otherwise a diagram of the growth cycle of a usual cannabis plant- interactive image of the plant during week 5 experiencing different kinds of bug infestation. if you hover over the different branches it appears to zoom but pops up an image close up of some of the common pests that cannabis attracts. with text that offers up organic or less complex pesticides and fungicides.
 
