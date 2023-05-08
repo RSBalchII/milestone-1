@@ -11,11 +11,9 @@
             "id": "f734d9027f32ce44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Milestone 2/Milestone 2 Concept.md",
-                "mode": "source",
-                "source": false
+                "file": "Milestone 2/Mobile & Desktop.png"
               }
             }
           },
@@ -23,9 +21,11 @@
             "id": "48c7519b22d6748c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Milestone 2/Mobile & Desktop.png"
+                "file": "Milestone 3/Section Fill.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milestone 2/Mobile & Desktop.png",
+                "file": "Milestone 3/Section Fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milestone 2/Mobile & Desktop.png",
+                "file": "Milestone 3/Section Fill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milestone 2/Mobile & Desktop.png"
+                "file": "Milestone 3/Section Fill.md"
               }
             }
           }
@@ -167,10 +167,10 @@
   },
   "active": "48c7519b22d6748c",
   "lastOpenFiles": [
+    "Milestone 2/Mobile & Desktop.png",
     "Milestone 3/Section Fill.md",
     "Milestone 2/Milestone 2 Concept.md",
     "Milestone 3",
-    "Milestone 2/Mobile & Desktop.png",
     "Milestone 2/Images for Website background/morocco plantation.jpg",
     "Milestone 2/Images for Website background/Inddor flower.jpg",
     "Milestone 2/Images for Website background/Flower.jpg",

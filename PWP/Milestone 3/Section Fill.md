@@ -1,8 +1,9 @@
 **Section 1 Why grow your own** - 
 summary of the reasons growing your own could be for you!
-You make an instant savings when growing your own medicine. 
-The health benefits you can achieve from keeping your plants clean is an incalcuable. Learning the basic concepts of cannabis is a great way to gain an understanding into the world of plant phenotypes. 
-My later Sections after the 5th will detail basic concepts of growing cannabis, 
+-You make an instant savings when growing your own medicine. 
+-The health benefits you can achieve from keeping your plants clean is an incalcuable.
+-What is "clean" cannabis?
+-Learning the basic concepts of cannabis is a great way to gain an understanding into the world of plant phenotypes.  
 **features**
 -A nice background in tasteful bright colors for the container that has breakable columns that stack with images over the text images pertaining to each upcoming section summarizing each piece succinctly-
 
@@ -30,3 +31,15 @@ Tips and tricks to get started !
 The decisions that must be made when you begin your gardening pastime are what will change the difficulty level of your growing situation. A list of rules of thumb that I live by when considering starting a new grow project
 **features**
 -each section can be in an image and the included text pops out when hovered over. clicking on a particular picture will produce text describing the chosen image in a shared text field below -
+
+color scheme hex codes
+
+EF3E36 - Vermillion
+
+45CB85 - Emerald
+
+3ABEFF - Deep Blue Sky
+
+8338EC - Blue Violet
+
+33673B - Hunter Green
