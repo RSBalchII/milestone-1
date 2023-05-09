@@ -5,3 +5,4 @@ function setColor(id, color) {
 
 setColor('upper-section', '#B6D7B9');
 setColor('canvas', '#9ABD97')
+

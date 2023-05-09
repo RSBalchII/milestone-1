@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f734d9027f32ce44",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Milestone 2/Mobile & Desktop.png"
-              }
-            }
-          },
-          {
             "id": "48c7519b22d6748c",
             "type": "leaf",
             "state": {
@@ -27,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +152,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c7519b22d6748c",
+  "floating": {
+    "id": "6419b6a1c212d0c9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "00aad8b2885aeb60",
+        "type": "window",
+        "children": [
+          {
+            "id": "a24f28868bb37404",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f734d9027f32ce44",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Milestone 2/Mobile & Desktop.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 467,
+        "y": 21,
+        "width": 605,
+        "height": 605,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f734d9027f32ce44",
   "lastOpenFiles": [
     "Milestone 2/Milestone 2 Concept.md",
     "Milestone 2/Mobile & Desktop.png",
