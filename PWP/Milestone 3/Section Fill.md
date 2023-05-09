@@ -1,14 +1,14 @@
 **Section 1 Why grow your own** - 
 summary of the reasons growing your own could be for you!
--You make an instant savings when growing your own medicine. 
--The health benefits you can achieve from keeping your plants clean is an incalcuable.
--What is "clean" cannabis?
+-Youspend less when growing your own medicine. 
+-The health benefits you can achieve from keeping your plants clean is incalcuable.
+-What is "clean" cannabis? Like any edible plant clean cannabis has less pesticide content. 
 -Learning the basic concepts of cannabis is a great way to gain an understanding into the world of plant phenotypes.  
 **features**
 -A nice background in tasteful bright colors for the container that has breakable columns that stack with images over the text images pertaining to each upcoming section summarizing each piece succinctly-
 
 **Section 2** 
-The cost of cannabis It can vary wildly and is on average between 6-15$ a gram. Learning to grow cannabis can be a boost to your gardening abilities as learning how it grows can show you the concepts of growing plants and understanding them on a deeper level than "water them and walk away".
+The cost of cannabis It can vary wildly and is on average between 6-15$ a gram. Learning to grow cannabis can be a boost to your gardening abilities.
 **features**
 -If possible Id like to code a calculator that takes user input and determines the estimated cost of their grow vs months of cannabis purchases- 
 
