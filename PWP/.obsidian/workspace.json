@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bc8a42746853fef0",
@@ -152,46 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "6419b6a1c212d0c9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "00aad8b2885aeb60",
-        "type": "window",
-        "children": [
-          {
-            "id": "a24f28868bb37404",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f734d9027f32ce44",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Milestone 2/Mobile & Desktop.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 467,
-        "y": 21,
-        "width": 605,
-        "height": 605,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f734d9027f32ce44",
+  "active": "48c7519b22d6748c",
   "lastOpenFiles": [
-    "Milestone 2/Milestone 2 Concept.md",
-    "Milestone 2/Mobile & Desktop.png",
     "Milestone 3/Section Fill.md",
+    "Milestone 2/Mobile & Desktop.png",
+    "Milestone 2/Milestone 2 Concept.md",
     "Milestone 2/Images for Website background/canabis-from-top-view-glasshouse-planting-making-medicine-from-marijuana-health-care_7180-3403.jpg",
     "Milestone 2/Images for Website background/Flower.jpg",
     "Milestone 2/Images for Website background/morocco plantation.jpg",
