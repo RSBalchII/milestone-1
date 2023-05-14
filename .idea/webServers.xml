@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="63c48bf2-9a26-47d7-828e-c92146b40627" name="pwp-RSBalchII" url="https://ddc-web-student.cnm.edu/~rbalchii/pwp-RSBalchII/">
+        <fileTransfer rootFolder="/home/rbalchii/public_html/pwp-RSBalchII/" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="e599eac3-12e8-4289-a2db-95650f399887" sshConfig="ddc-web-student.cnm.edu" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
