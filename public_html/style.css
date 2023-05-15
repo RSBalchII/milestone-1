@@ -17,7 +17,7 @@ body {
     background: linear-gradient(#D0F1BF,#8A7090);
     font-family:"Poppins", sans-serif;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 16px;
     color: #bff1c0;
 }
 body img {
@@ -28,12 +28,12 @@ body img {
 h2 {
     color: #FF8C42;
 }
-ul {
+center {
     text-align: center;
     padding: 0;
 }
 
-li {
+p {
     display: inline-block;
     text-align: left;
     list-style-type: none;
@@ -45,7 +45,6 @@ section:nth-child(6){
     color: #483D03;
     text-align: center;
     align-content: center;
-    color: #483D03;
     width: 80%;
 }
 
