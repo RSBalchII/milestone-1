@@ -4,12 +4,7 @@ nav {
     background-color: #483D03;
     font-family:"Poppins", sans-serif;
     font-weight: 700;
-}
-
-nav .navbar-brand {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #FF8C42;
+    color: #8A7090;
 }
 
 nav .navbar-brand {
@@ -19,10 +14,10 @@ nav .navbar-brand {
 }
 
 body {
-    background: linear-gradient(#D0F1BF,#8A7090 );
+    background: linear-gradient(#D0F1BF,#8A7090);
     font-family:"Poppins", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 14px;
     color: #bff1c0;
 }
 body img {
@@ -30,38 +25,43 @@ body img {
         height: 13em;
 }
 
-section {
+h2 {
+    color: #FF8C42;
+}
+ul {
+    text-align: center;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    text-align: left;
+    list-style-type: none;
+}
+section:nth-child(2),
+section:nth-child(4),
+section:nth-child(6){
     background-color:#9ABD97;
-    align-items: center;
-    justify-content: center;
-    max-width: 80%;
-}
-
-section:nth-child(2){
-    text-align: center;
     color: #483D03;
-}
-section:nth-child(4){
     text-align: center;
-    color: #483D03;
-
-}section:nth-child(6){
-    text-align: center;
-    color: #483D03;
-}
-
-section:nth-child(5){
-    text-align: center;
-}
-
-section:nth-child(odd){
-    text-align: center;
-    background-color: #acdcb3;
     align-content: center;
-    color: #5c7e57;
+    color: #483D03;
+    width: 80%;
 }
 
-section:nth-child(8){
+section:nth-child(3),
+section:nth-child(5),
+section:nth-child(7){
+    background-color: #acdcb3;
+    color: #5c7e57;
+    align-content: center;
+    text-align: center;
+    width: 80%;
+}
+
+section:nth-child(8) {
     background-color: #483D03;
     align-content: center;
+    color: #FF8C42;
+    width: 100%;
 }
