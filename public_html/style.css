@@ -1,33 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 
 nav {
-    background-color: #646536;
+    background-color: #829f7f;
     font-family:"Poppins", sans-serif;
-    font-weight: 600;
-    font-size: 16px;
-}
-nav a {
-    text-decoration:#D0F1BF;
-    padding: 10px;
-}
-
-a {
-    align-items: center;
+    font-weight: 700;
 }
 
 body {
-    background-color: #B6D7B9;
+    background: linear-gradient(#B6D7B9, #5c7e57);
     font-family:"Poppins", sans-serif;
+    font-weight: 500;
     font-size: 16px;
-    color: #D0F1BF;
+    color: #bff1c0;
 }
 body img {
-        width: 400px;
-        height: 400px;
-}
-
-input {
-    max-width: 30vw;
+        width: 13em;
+        height: 13em;
 }
 
 section {
@@ -36,7 +24,21 @@ section {
     justify-content: center;
 }
 
+section:nth-child(2){
+    text-align: center;
+}
+
+section:nth-child(5){
+    text-align: center;
+}
+
+section:nth-child(odd){
+    background-color: #acdcb3;
+    align-content: center;
+    color: #5c7e57;
+}
+
 section:nth-child(8){
-    background-color: #646536;
+    background-color: #829f7f;
     align-content: center;
 }
