@@ -25,9 +25,17 @@ body img {
         height: 13em;
 }
 
-h2 {
+h4 {
     color: #FF8C42;
+    font-family:"Poppins", sans-serif;
+    font-weight: 700;
 }
+strong {
+    color: #FF8C42;
+    font-family:"Poppins", sans-serif;
+    font-weight: 700;
+}
+
 center {
     text-align: center;
     padding: 0;
@@ -60,7 +68,7 @@ section:nth-child(7){
 
 section:nth-child(8) {
     background-color: #483D03;
-    align-content: center;
+    text-align: center;
     color: #FF8C42;
     width: 100%;
 }
