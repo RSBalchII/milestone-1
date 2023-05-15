@@ -1,13 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 
 nav {
-    background-color: #829f7f;
+    background-color: #483D03;
     font-family:"Poppins", sans-serif;
     font-weight: 700;
 }
 
+nav .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #FF8C42;
+}
+
+nav .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #FF8C42;
+}
+
 body {
-    background: linear-gradient(#B6D7B9, #5c7e57);
+    background: linear-gradient(#D0F1BF,#8A7090 );
     font-family:"Poppins", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -22,10 +34,20 @@ section {
     background-color:#9ABD97;
     align-items: center;
     justify-content: center;
+    max-width: 80%;
 }
 
 section:nth-child(2){
     text-align: center;
+    color: #483D03;
+}
+section:nth-child(4){
+    text-align: center;
+    color: #483D03;
+
+}section:nth-child(6){
+    text-align: center;
+    color: #483D03;
 }
 
 section:nth-child(5){
@@ -33,12 +55,13 @@ section:nth-child(5){
 }
 
 section:nth-child(odd){
+    text-align: center;
     background-color: #acdcb3;
     align-content: center;
     color: #5c7e57;
 }
 
 section:nth-child(8){
-    background-color: #829f7f;
+    background-color: #483D03;
     align-content: center;
 }
