@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 
+
 nav {
     background-color: #483D03;
     font-family:"Poppins", sans-serif;
@@ -19,58 +20,74 @@ body {
     font-weight: 500;
     font-size: 16px;
     color: #bff1c0;
+    text-align: center;
+    padding: 0;
 }
 
+#hover-text {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    background-color: #FF8C42;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    z-index: 1;
+}
 
-section:nth-child(1) img {
-width: 15em;
-height: 16em;
+.rounding {
+    border-radius: 50%;
+}
+
+.round{
+    border-radius: 50%;
+    height:100%;
 }
 
 h4 {
     color: #FF8C42;
     font-family:"Poppins", sans-serif;
     font-weight: 700;
+
 }
+
+.orange {
+    color: #FF8C42;
+    font-family:"Poppins", sans-serif;
+}
+
 .white {
     color: white;
     font-family:"Poppins", sans-serif;
-    font-weight: 700;
 }
 
-center {
-    text-align: center;
-    padding: 0;
-}
-
-p {
-    display: inline-block;
+div {
+    align-content: center;
     text-align: left;
     list-style-type: none;
 }
-section:nth-child(2),
-section:nth-child(4),
-section:nth-child(6){
-    background-color:#9ABD97;
-    color: #483D03;
-    text-align: center;
-    align-content: center;
-    width: 80%;
+section:nth-child(2){
+position: relative;
 }
 
 section:nth-child(3),
 section:nth-child(5),
 section:nth-child(7){
+    background-color:#9ABD97;
+    color: #483D03;
+    width: 80%;
+}
+section:nth-child(4),
+section:nth-child(6),
+section:nth-child(8){
     background-color: #acdcb3;
     color: #5c7e57;
-    align-content: center;
-    text-align: center;
     width: 80%;
 }
 
-section:nth-child(8) {
+section:nth-child(9) {
     background-color: #483D03;
     text-align: center;
     color: #FF8C42;
-    width: 100%;
 }
