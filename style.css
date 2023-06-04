@@ -21,6 +21,11 @@ nav .nav-link {
     color: #FF8C42;
 }
 
+.image3sectionCultivation {
+    max-height: 90%;
+    width: 15em;
+}
+
 body {
     background: linear-gradient(#D0F1BF,#8A7090);
     font-family:"Poppins", sans-serif;
